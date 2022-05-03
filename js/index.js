@@ -72,12 +72,14 @@ window.onload = function(){
         tips:'手机android下载',
         desc:'open',
         direction:'top',
+        size:'m',
         url:'#'
     },{
         id:'#ios_app',
         tips:'手机ios下载',
         desc:'open',
         direction:'top',
+        size:'m',
         url:'#'
     },
 //{
