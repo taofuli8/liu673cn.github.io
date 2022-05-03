@@ -73,42 +73,28 @@ window.onload = function(){
         desc:'open',
         direction:'top',
         size:'m',
-        url:'#'
+        url:'https://github.com/'
     },{
         id:'#ios_app',
         tips:'手机ios下载',
         desc:'open',
         direction:'top',
         size:'m',
-        url:'#'
-    },
-//{
-//        id:'#source_tv',
-//        tips:'电视tv下载',
-//        desc:'open',
-//       direction:'top',
-//       url:'#'
-//    },{
-//        id:'#new_app',
-//        tips:'更多app下载',
-//        desc:'open',
-//        direction:'top',
-//        url:'#'
-//    },
-{
+        url:'https://github.com/'
+    },{
         id:'#window_client',
-        tips:'点击直接下载',
-        desc:'download',
+        tips:'win点击直接下载',
+        desc:'open',
         direction:'top',
         size:'m',
-        url:'#'
+        url:'https://github.com/'
     },{
         id:'#ios_client',
-        tips:'点击直接下载',
-        desc:'download',
+        tips:'ios点击直接下载',
+        desc:'open',
         direction:'top',
         size:'m',
-        url:'#'
+        url:'https://github.com/'
     },{
         id:'#btnZero',
         tips:'商业翻译合作',
@@ -122,13 +108,12 @@ window.onload = function(){
     },{
         id:'#btnTwo',
         tips:'官方微博关注',
-        desc:'open',
+        size:'m',
         url:'#'
     },{
         id:'#btnThree',
         tips:'官方抖音账号',
         size:'m',
-        desc:'none',
         url:'#'
     }]
     //鼠标移入事件
@@ -148,7 +133,3 @@ window.onload = function(){
 
     })
    
-    
-   
-
- 
