@@ -15,7 +15,7 @@ function browserRedirect() {
     　　　　
     　　} else {
         if(window.location.href.indexOf("mobile") !== -1){
-            window.location.href="../js/index.html";
+            window.location.href="../new/index.htm";
         }
     　　　　
     　　}　　　　
