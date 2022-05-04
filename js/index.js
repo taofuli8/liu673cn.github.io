@@ -10,12 +10,12 @@ function browserRedirect() {
     　　var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
     　　if ((bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) ){
         if(window.location.href.indexOf("mobile") === -1){
-            window.location.href="../new/index.htm";
+            window.location.href="../new/";
         }
     　　　　
     　　} else {
         if(window.location.href.indexOf("mobile") !== -1){
-            window.location.href="../new/index.htm";
+            window.location.href="../new/";
         }
     　　　　
     　　}　　　　
