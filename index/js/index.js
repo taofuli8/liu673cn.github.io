@@ -73,28 +73,28 @@ window.onload = function(){
         desc:'open',
         direction:'top',
         size:'m',
-        url:'https://github.com/'
+        url:'https://liu673cn.github.io/apk/'
     },{
         id:'#ios_app',
         tips:'手机ios下载',
         desc:'open',
         direction:'top',
         size:'m',
-        url:'https://github.com/'
+        url:'https://liu673cn.github.io/iso/'
     },{
         id:'#window_client',
         tips:'win点击直接下载',
         desc:'open',
         direction:'top',
         size:'m',
-        url:'https://github.com/'
+        url:'https://liu673cn.github.io/win/'
     },{
         id:'#ios_client',
         tips:'ios点击直接下载',
         desc:'open',
         direction:'top',
         size:'m',
-        url:'https://github.com/'
+        url:'https://liu673cn.github.io/mac/'
     },{
         id:'#btnZero',
         tips:'商业翻译合作',
